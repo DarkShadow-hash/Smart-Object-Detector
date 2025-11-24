@@ -1,8 +1,7 @@
 ultralytics
-opencv-python
 torch
+torchvision
+torchaudio
 numpy
-streamlit
-tqdm
+opencv-python
 matplotlib
-pandas
