@@ -1,4 +1,4 @@
-# Smart-Object-Detector
+# Smart Object Detector
 
 ## Two projects, one mission: From generic detection to personalized AI vision
 
