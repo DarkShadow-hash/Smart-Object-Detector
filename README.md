@@ -12,13 +12,12 @@ Core Goal: Demonstrate the effectiveness of Transfer Learning to specialize a ge
 
 
 
-                                               Detection Proof                                     <img width="792" height="634" alt="image" src="https://github.com/user-attachments/assets/71c98fff-6c67-4778-8a62-ef1176d8c670" />
-
+                                               Before fine-tuning                                  assets/Capture d'écran 2025-11-24 182742.png
 
 
 
                                                
-                                             Object Timer Feature                                                
+                                               After fine-tuning                                                    
 
                                              
 
