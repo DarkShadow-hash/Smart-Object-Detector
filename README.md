@@ -2,14 +2,26 @@
 
 ## Two projects, one mission: From generic detection to personalized AI vision
 
-### Overview
-This repository contains two progressive projects that demonstrate the evolution from generic object detection to personalized AI vision:
+### Visual Overview & Demonstration
 
-#### Project 1: Smart Object & People Detector
-A minimal YOLOv8-based application that detects people and objects in images or webcam video using Python and OpenCV. You will quickly see the limitations of this small project because it only succeeds at detecting people correctly.
+This project implements a lightweight and highly accurate Computer Vision system, based on the YOLOv8 Nano architecture, specialized to detect three custom personal objects (Water Bottle, Headphones, Pencil Case) in real-time.
 
-#### Project 2: Custom Object Detector
-Build AI that sees what you see, perfectly. Create your own personalized object detection AI that actually understands your stuff.
+Core Goal: Demonstrate the effectiveness of Transfer Learning to specialize a generic model on a small, controlled dataset.
+
+####                                             Key feature                                            Visual proof
+
+
+
+                                               Detection Proof                                     <img width="792" height="634" alt="image" src="https://github.com/user-attachments/assets/71c98fff-6c67-4778-8a62-ef1176d8c670" />
+
+
+
+
+                                               
+                                             Object Timer Feature                                                
+
+                                             
+
 
 ### Why Two Projects?
 Project 1 Shows the Problem:
