@@ -22,7 +22,7 @@ Core Goal: Demonstrate the effectiveness of Transfer Learning to specialize a ge
 
 
 
-                                               Before fine-tuning                                  ![image](https://github.com/user-attachments/assets/ba184727-da49-48a9-929e-22cb164b4785)
+                                               Before fine-tuning                                  ![description](assets/Capture_d_ecran_2025_11_24_182742.png)
 
 
 
