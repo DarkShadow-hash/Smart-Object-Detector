@@ -12,27 +12,15 @@ Massive Performance Uplift: Achieving near-perfect accuracy on custom classes (9
 
 Advanced Temporal Feature: Integrating an Object Timer logic to measure the duration an object stays visible in the frame (as demonstrated below).
 
-### Visual Proof and Feature Showcase
+### Visual proof and feature showcase
 
 This project implements a lightweight and highly accurate Computer Vision system, based on the YOLOv8 Nano architecture, specialized to detect three custom personal objects (Water Bottle, Headphones, Pencil Case) in real-time.
 
 Core Goal: Demonstrate the effectiveness of Transfer Learning to specialize a generic model on a small, controlled dataset.
 
-####                                             Key feature                                            Visual proof
+Unfortunately, I could not upload the images showing the results in this Readme, but you can see them by downloading the "Visual proof" document in this same repository.
 
-
-
-                                               Before fine-tuning                                  ![description](assets/Capture_d_ecran_2025_11_24_182742.png)
-
-
-
-
-
-
-                                               
-                                               After fine-tuning                                                    
-
-### Key performance results (Test Set Evaluation)
+### Key performance results (Test set evaluation)
 
 The model was rigorously evaluated against an independent, unseen Test Set. The comparison validates the entire project hypothesis.
 
